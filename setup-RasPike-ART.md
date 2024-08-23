@@ -2,6 +2,8 @@
 
 叩く
 
+`git submodule update --init --recursive`
+
 ```shell
 cd sdk/workspace
 make -f ../common/Makefile.raspike-art setup_spike_env
